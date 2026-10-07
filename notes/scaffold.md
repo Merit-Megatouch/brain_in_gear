@@ -8,6 +8,6 @@
 | Assets | /usr/local/ion_only/games/g_brain_in_gear |
 | Window size | 800x600 — from largest PNG (declared HIGH_RESOLUTION → 1024x768) |
 | Largest PNG | 800x600 (calcgame/GFX/math_bkg.png) |
-| Engine libraries beyond the shared SDK | libgraphics_sprite.so libinput_sprite.so liblogging.so libsound_sprite.so  |
+| Engine libraries beyond the shared SDK | libgraphics_sprite.so libinput_sprite.so liblogging.so libmerit_threads.so libsound_sprite.so  |
 | Libraries not found in the cabinet | 0 (missing-libs.txt) |
 | Unresolved symbols | 0 unresolved symbol(s) (unresolved.txt) |
